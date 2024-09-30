@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bone_handles:item/bone_upgrade"
+  }
+}
