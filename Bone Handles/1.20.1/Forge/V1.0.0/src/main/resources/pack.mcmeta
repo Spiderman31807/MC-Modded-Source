@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Adds a Alternative to sticks for the handles of Tools, tools with bone handles will have 1.33x more durability & stick tools can be upgraded with a Bone Template"
+  }
+}
