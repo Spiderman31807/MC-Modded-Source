@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "bone_handles:netherite_hoe",
+    "bone_handles:diamond_hoe",
+    "bone_handles:golden_hoe",
+    "bone_handles:iron_hoe",
+    "bone_handles:stone_hoe",
+    "bone_handles:wooden_hoe"
+  ]
+}

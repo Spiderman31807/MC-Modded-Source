@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "bone_handles:netherite_shovel",
+    "bone_handles:diamond_shovel",
+    "bone_handles:golden_shovel",
+    "bone_handles:iron_shovel",
+    "bone_handles:stone_shovel",
+    "bone_handles:wooden_shovel"
+  ]
+}

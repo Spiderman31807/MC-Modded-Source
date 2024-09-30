@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bone"
+    },
+    "b": {
+      "item": "bone_handles:template"
+    },
+    "c": {
+      "item": "minecraft:bone_block"
+    }
+  },
+  "result": {
+    "item": "bone_handles:template",
+    "count": 2
+  }
+}

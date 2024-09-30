@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "bone_handles:netherite_sword",
+    "bone_handles:diamond_sword",
+    "bone_handles:golden_sword",
+    "bone_handles:iron_sword",
+    "bone_handles:stone_sword",
+    "bone_handles:wooden_sword"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "getting_an_upgrade_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bone_handles:stone_pickaxe"
+            ],
+            "count": {
+              "min": 1,
+              "max": 9999
+            }
+          }
+        ]
+      }
+    }
+  }
+}

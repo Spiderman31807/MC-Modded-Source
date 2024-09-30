@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "bone_handles:netherite_pickaxe",
+    "bone_handles:diamond_pickaxe",
+    "bone_handles:golden_pickaxe",
+    "bone_handles:iron_pickaxe",
+    "bone_handles:stone_pickaxe",
+    "bone_handles:wooden_pickaxe"
+  ]
+}
