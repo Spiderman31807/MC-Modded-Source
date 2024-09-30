@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="adaptive_difficulty"
+version="1.0.0"
+displayName="Adaptive Difficulty"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Spiderman31807"
+authors="Spiderman318"
+description="Lets each Player play at their own Difficulty (kinda..?)"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.adaptive_difficulty]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

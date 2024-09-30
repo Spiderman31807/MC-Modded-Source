@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "shulker",
+    "shulker_bullet",
+    "hoglin",
+    "zoglin",
+    "piglin_brute",
+    "ender_dragon",
+    "llama",
+    "trader_llama"
+  ]
+}
