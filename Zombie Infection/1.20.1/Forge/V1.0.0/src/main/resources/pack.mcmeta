@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "If a Player is killed by a Zombie, they'll instead of dying, become a Zombie"
+  }
+}

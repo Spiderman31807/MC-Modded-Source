@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="zombie_mode"
+version="1.0.0"
+displayName="Zombie Infection"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Spiderman31807"
+authors="Spiderman318, MCreator"
+description="If a Player is killed by a Zombie, they'll instead of dying, become a Zombie"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.zombie_mode]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
