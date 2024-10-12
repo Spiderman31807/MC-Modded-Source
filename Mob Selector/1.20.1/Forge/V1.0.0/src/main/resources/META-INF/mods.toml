@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="playasmob"
+version="1.0.0"
+displayName="Mob Selector"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/mob-selector"
+logoFile="logo.png"
+credits="Spiderman31807"
+authors="Spiderman318"
+description="Some kind of mixure between Origins Mod & Morph Mod."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.playasmob]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
