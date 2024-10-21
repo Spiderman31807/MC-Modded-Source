@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "playasmob.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.playasmob.refmap.json",
+  "mixins": [
+    "PlayerMixin",
+    "LivingEntityMixin",
+    "LivingEntityRendererMixin"
+  ],
+  "client": [],
+  "minVersion": "0.8"
+}
