@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "#playasmob:food_folivore",
+    "#playasmob:food_granivore",
+    "minecraft:wheat",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:baked_potato",
+    "minecraft:pumpkin_pie",
+    "minecraft:golden_carrot",
+    "minecraft:bread",
+    "minecraft:dried_kelp",
+    "minecraft:cookie",
+    "minecraft:beetroot",
+    "minecraft:beetroot_soup",
+    "minecraft:mushroom_stew",
+    "minecraft:suspicious_stew",
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "minecraft:cactus"
+  ]
+}
