@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "better_recoverycompass:block/lodestone_top",
+    "up": "better_recoverycompass:block/lodestone_top",
+    "north": "better_recoverycompass:block/lodestone_side",
+    "east": "better_recoverycompass:block/lodestone_side",
+    "south": "better_recoverycompass:block/lodestone_side",
+    "west": "better_recoverycompass:block/lodestone_side",
+    "particle": "better_recoverycompass:block/lodestone_top"
+  },
+  "render_type": "solid"
+}

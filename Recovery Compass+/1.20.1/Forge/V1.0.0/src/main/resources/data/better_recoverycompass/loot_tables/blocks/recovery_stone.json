@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "better_recoverycompass:blocks/recovery_stone",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "better_recoverycompass:recovery_stone"
+        }
+      ]
+    }
+  ]
+}

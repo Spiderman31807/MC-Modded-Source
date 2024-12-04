@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "better.recovery_compass.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.better_recoverycompass.refmap.json",
+  "mixins": [],
+  "client": [],
+  "minVersion": "0.8"
+}

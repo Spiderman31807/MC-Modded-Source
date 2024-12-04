@@ -1,0 +1,5 @@
+{
+  "gamerule.consumeRecoveryCompass": "Consume Recovery Compass",
+  "block.better_recoverycompass.recovery_stone": "Recovery Stone",
+  "gamerule.consumeRecoveryCompass.description": "Upon dying and having your loot restored to the linked Recovery Stone, destroy the Recovery Compass"
+}
